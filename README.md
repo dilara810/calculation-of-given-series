@@ -1,0 +1,1 @@
+# calculation-of-given-series
